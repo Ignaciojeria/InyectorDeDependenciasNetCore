@@ -1,0 +1,10 @@
+C:\Users\nacho\Desktop\NetCoreDI\bin\Debug\netcoreapp2.0\NetCoreDI.deps.json
+C:\Users\nacho\Desktop\NetCoreDI\bin\Debug\netcoreapp2.0\NetCoreDI.runtimeconfig.json
+C:\Users\nacho\Desktop\NetCoreDI\bin\Debug\netcoreapp2.0\NetCoreDI.runtimeconfig.dev.json
+C:\Users\nacho\Desktop\NetCoreDI\bin\Debug\netcoreapp2.0\NetCoreDI.dll
+C:\Users\nacho\Desktop\NetCoreDI\bin\Debug\netcoreapp2.0\NetCoreDI.pdb
+C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.AssemblyInfoInputs.cache
+C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.AssemblyInfo.cs
+C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.dll
+C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.pdb
