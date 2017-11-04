@@ -18,7 +18,7 @@ namespace NetCoreDI.Servicio
         }
 
         public void Saludar(){
-            Console.WriteLine("Hola " + Nombre + " desde instancia: " + Id.ToString());
+            Console.WriteLine("Hola " + Nombre);
         }
 
 
