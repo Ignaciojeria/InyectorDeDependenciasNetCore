@@ -5,12 +5,21 @@ using System.Text;
 
 namespace NetCoreDI.Servicio
 {
+
     public class Saludo : ISaludo
     {
-        public Guid Id { get; private set;}
+        private string Nombre;
 
-        public void Saludar()=>Console.WriteLine("Hola Ignacio"+ " desde instancia: "+ Id.ToString());
-        
+        public Guid Id { get; private set; }
+
+        public void Nombrar(string nombre)
+        {
+            Nombre = nombre;
+        }
+
+        public void Saludar(){
+            Console.WriteLine("Hola " + Nombre + " desde instancia: " + Id.ToString());
+        }
 
 
     }

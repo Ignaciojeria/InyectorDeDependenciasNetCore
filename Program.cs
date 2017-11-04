@@ -38,6 +38,9 @@ namespace NetCoreDI
                a las instancias: saludo1, saludo2 y estas instancias referencian a un mismo objeto único
                y de acceso global.
             */
+            saludo1.Nombrar("Ignacio");
+            saludo1.Saludar();
+            saludo2.Saludar();
             Console.WriteLine(saludo1.GetHashCode().ToString());
             Console.WriteLine(saludo2.GetHashCode().ToString());
 

@@ -8,3 +8,4 @@ C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.AssemblyInfoI
 C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.AssemblyInfo.cs
 C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.dll
 C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.pdb
+C:\Users\nacho\Desktop\NetCoreDI\obj\Debug\netcoreapp2.0\NetCoreDI.csprojResolveAssemblyReference.cache

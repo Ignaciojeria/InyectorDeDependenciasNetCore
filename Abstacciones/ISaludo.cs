@@ -7,5 +7,6 @@ namespace NetCoreDI.Abstacciones
     public interface ISaludo
     {
         void Saludar();
+        void Nombrar(string nombre);
     }
 }
